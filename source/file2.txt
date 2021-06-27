@@ -1,0 +1,1 @@
+file1 inside bin folder will be ignore but this file1.txt will be commited
