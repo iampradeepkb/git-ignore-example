@@ -3,3 +3,5 @@ bin/
 
 #ignore all files with .tmp extension
 *.tmp 
+#ignore example.txt inside source folder
+source/example.txt
