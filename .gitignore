@@ -1,0 +1,5 @@
+#ignore everything inside the bin folder
+bin/
+
+#ignore all files with .tmp extension
+*.tmp 
